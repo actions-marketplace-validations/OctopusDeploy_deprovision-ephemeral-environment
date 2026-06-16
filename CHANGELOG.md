@@ -1,5 +1,36 @@
 # Changelog
 
+## [1.0.4](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/compare/v1.0.3...v1.0.4) (2026-06-08)
+
+
+### Bug Fixes
+
+* patch transitive axios vulnerability via npm audit fix ([#100](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/issues/100)) ([171c379](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/commit/171c3794c56ddcfcf50ab6f4c79282685af7d89f))
+* update axios to v1.17.0 ([#104](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/issues/104)) ([775b395](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/commit/775b39503a6f2588bdaad1c1344f77ac4d88da0d))
+
+## [1.0.3](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/compare/v1.0.2...v1.0.3) (2026-04-13)
+
+
+### Bug Fixes
+
+* **deps:** bump axios from 1.13.5 to 1.15.0 ([#95](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/issues/95)) ([ffb52a9](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/commit/ffb52a98095d88d95921041c6df6827b470984fa))
+
+## [1.0.2](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/compare/v1.0.1...v1.0.2) (2026-03-25)
+
+
+### Bug Fixes
+
+* **deps:** Upgrade @actions/core to v3.0.0 ([#81](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/issues/81)) ([ad6d53a](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/commit/ad6d53a0a29cdc51ecd1e0f9c144b73eb62304cc))
+
+## [1.0.1](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/compare/v1.0.0...v1.0.1) (2026-02-23)
+
+
+### Bug Fixes
+
+* Add link to demo workflow ([#33](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/issues/33)) ([9ec3013](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/commit/9ec3013249c568e4108005d08bb10b0b1856216c))
+* Address glob package security alert ([#34](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/issues/34)) ([a2a3a2c](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/commit/a2a3a2c9f31cbd9f1e75dfa1d4d1593842de368b))
+* Update PR validation to be able to run on updates to the PR ([#29](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/issues/29)) ([714db31](https://github.com/OctopusDeploy/deprovision-ephemeral-environment/commit/714db31b8674bb05279fa4e10b7507f199ad298e))
+
 ## 1.0.0 (2025-11-07)
 
 
